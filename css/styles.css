@@ -103,22 +103,18 @@
     .slider2 {
         display: none;
     }
-	.slider{
-	margin-top:60px;
-}
+    .slider {
+        margin-top: 60px;
+    }
 }
 
 @media (min-width:992px) {
     .slider1 {
         display: none;
     }
-	.slider{
-	margin-top:150px;
-}
-}
-
-.slider {
-    margin-top: 200px;
+    .slider {
+        margin-top: 150px;
+    }
 }
 
 .slide-caption {
