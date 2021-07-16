@@ -103,9 +103,6 @@
     .slider2 {
         display: none;
     }
-    .slider {
-        margin-top: 60px;
-    }
 }
 
 @media (min-width:992px) {
