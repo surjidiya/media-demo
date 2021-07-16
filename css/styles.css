@@ -112,11 +112,18 @@
     .slider1 {
         display: none;
     }
+<<<<<<< HEAD
     .slider {
         margin-top: 150px;
     }
 }
 
+=======
+	.slider{
+	margin-top:150px;
+}
+}
+>>>>>>> fd9b0c7f62baf8ff67033190e1076219184176d5
 .slide-caption {
     color: var(--font-color);
     text-align: left;
